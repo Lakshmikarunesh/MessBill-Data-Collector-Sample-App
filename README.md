@@ -11,6 +11,8 @@ ones the user fills and submits the data is received in the google sheets of the
 # Output snips of the Application.
 
 ![WhatsApp Image 2024-06-21 at 15 45 30_f5bd63c1](https://github.com/Lakshmikarunesh/MessBill-Data-Collector-Sample-App/assets/107470513/35e424b2-8e83-49ef-9eb0-134ce980664c)
+![WhatsApp Image 2024-06-21 at 15 45 31_daaf0fd3](https://github.com/Lakshmikarunesh/MessBill-Data-Collector-Sample-App/assets/107470513/0a73d988-ad0e-4920-8ca5-31264208d160)
+
 
 # Output snips of the Backend data colected.
 ![Screenshot (6)](https://github.com/Lakshmikarunesh/MessBill-Data-Collector-Sample-App/assets/107470513/a586d0d6-f282-4e04-a7cb-cd87ccd2cde5)
