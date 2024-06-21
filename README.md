@@ -15,4 +15,5 @@ ones the user fills and submits the data is received in the google sheets of the
 
 
 # Output snips of the Backend data colected.
-![Screenshot (6)](https://github.com/Lakshmikarunesh/MessBill-Data-Collector-Sample-App/assets/107470513/a586d0d6-f282-4e04-a7cb-cd87ccd2cde5)
+![Screenshot (7)](https://github.com/Lakshmikarunesh/MessBill-Data-Collector-Sample-App/assets/107470513/60bda9ae-aa3a-4ab7-b4fb-876c0a34e318)
+
